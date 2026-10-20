@@ -1,0 +1,30 @@
+{
+  "name": "freelance-proposal-js",
+  "version": "1.0.0",
+  "description": "Generate a clean HTML client proposal/quote from a JSON file. Zero dependencies, runs via npx straight from GitHub.",
+  "bin": {
+    "freelance-proposal": "./index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "MIT",
+  "author": "kleogeos",
+  "keywords": [
+    "freelance",
+    "proposal",
+    "quote",
+    "cli",
+    "zero-dependencies",
+    "npx"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kleogeos/freelance-proposal-js"
+  },
+  "homepage": "https://kleogeos.github.io/freelancer-tools/"
+}
