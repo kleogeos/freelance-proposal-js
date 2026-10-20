@@ -1,0 +1,24 @@
+{
+  "proposal_number": "P-2026-014",
+  "from": "Alex Rivera, Freelance Web Developer",
+  "to": "Nova Studio LLC",
+  "date": "2026-10-15",
+  "valid_until": "2026-11-15",
+  "summary": "Redesign and rebuild the marketing site on a modern static stack, improving load time and making content edits self-service for the Nova Studio team.",
+  "scope": [
+    "Audit current site and define information architecture",
+    "Design 6 page templates (home, about, services, case studies, blog, contact)",
+    "Build with a static site generator, connected to a headless CMS",
+    "Migrate existing content (12 pages)",
+    "Basic SEO setup (meta tags, sitemap, redirects from old URLs)"
+  ],
+  "pricing": [
+    {"description": "Design (6 templates)", "amount": 1800},
+    {"description": "Build + CMS integration", "amount": 2400},
+    {"description": "Content migration", "amount": 600},
+    {"description": "SEO setup", "amount": 300}
+  ],
+  "timeline": "4 weeks from signed proposal and 50% deposit: 1 week design, 2 weeks build, 1 week migration/QA.",
+  "terms": "50% deposit to start, 50% due on launch. Proposal valid for 30 days. Up to 2 rounds of revisions per template included; additional rounds billed hourly.",
+  "notes": "Hosting and CMS subscription costs are separate and billed directly to the client."
+}
